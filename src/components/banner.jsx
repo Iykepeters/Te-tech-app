@@ -10,9 +10,15 @@ function Banner() {
             </video>
                     <div className="Btext">
                         <h3> NWACHIEF TE-TECH COMMUNICATIONS</h3>
-                            <p> Your best choice for quality london used mobile
+                            <p> Your best choice for quality new and london used mobile
                                 phones and accessories
                             </p>
+
+                             <div className="trust-badges">
+                                    <span>✓ Tested Devices</span>
+                                    <span>✓ 3-Month Warranty</span>
+                                    <span>✓ Honest Prices</span>
+                            </div>
                                     <div className="navbtncontainer">
                                     <button className="navBtn">Learn More</button>
                                     </div>

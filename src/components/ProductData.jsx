@@ -806,7 +806,7 @@ export const HonorFile = [
 
     }, {
         id: "12",
-        image:'public/img/huawei-p8-lite-2017.jpg',
+        image:'/img/huawei-p8-lite-2017.jpg',
         name: "Honor 8 Lite",
         action:"Buy Now",
         price: "240,000"

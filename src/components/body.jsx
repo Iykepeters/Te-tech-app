@@ -35,7 +35,6 @@ function Body() {
             <ul>
               <li>•	To be our customers’ first choice for reliable UK used mobile phones</li>
               <li>•	To have 90% of our customers give a 100% satisfactory review and fewer than 5% encountering any device issue.</li>
-              <li>•	To create zero distinction between UK used and newly acquired mobile devices for all our clients.</li>
             </ul>
           </Card.Description>
         </Card.Body>
@@ -52,10 +51,8 @@ function Body() {
           <Card.Description className="cardtext">
             <ul>
               <li>•	Small business owners looking to venture into the mobile telecommunication industry</li>
-              <li>•	Students and young professionals (need a quality phone for social life, school or work)</li>
-              <li>•	Budget conscious customers (you want good quality phones with relatively low pricing)</li>
-              <li>•	Parents who intend to buy mobile phone for their kids</li>
-              <li>•	Everyone who has an idea of the need of a mobile phone to either chat or make calls.</li>
+              <li>•	Students and young professionals </li>
+              <li>•	Budget conscious customers </li>
             </ul>
           </Card.Description>
         </Card.Body>

@@ -18,7 +18,7 @@ function Product(props) {
   return (
     <div className="Product-View-Container">
       <div className="Product-View-Wrapper">
-    <Card.Root className="Product-View-Card" width="190px" onClick={() => setShowQuickView(true)}>
+    <Card.Root className="Product-View-Card"width={{ base: "150px", md: "190px" }} onClick={() => setShowQuickView(true)}>
           <div className="Product-Img-Wrap">
             <Image className="Product-Img" src={props.item.image} alt={props.item.name} />
             <Badge className={`stock-badge ${inStock ? "in-stock" : "out-of-stock"}`}>

@@ -12,6 +12,13 @@ const brandLogos = {
   gionee:  "/img/Gionee-Logo.png",
   redmi:   "/img/Redmi Logo.png",
   honor:   "/img/HuaweiHonorLogo.jfif",
+  infinix: "/img/InfinixLogo.png",
+  nokia:   "/img/NokiaLogo.png",
+  GooglePixel: "/img/GooglePixel.png"  ,
+  Tecno: "/img/TecnoLogo.png",
+  HTC: "/img/HtcLogo.png",
+  ZTE: "/img/ZTELogo.png",
+  Asus: "img/AsusLogo.png"
 }
 
 function BrandsGrid() {

@@ -5,19 +5,10 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-note9-r1.jpg',
         name: " Samsung Galaxy Note 9",
         action:"Buy Now",
-        price: "240,000"
+        price: "230000"
 
     },
 
-
-     {
-        id: "2",
-        image: '/img/samsung-galaxy-note5.jpg',
-        name: " Samsung Galaxy Note 5",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
 
 
      {
@@ -25,7 +16,7 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-s25-edge.jpg',
         name: " Samsung Galaxy S25 edge",
         action:"Buy Now",
-         price: "240,000"
+         price: "720000"
 
     },
 
@@ -34,7 +25,7 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-z-fold6.jpg',
         name: " Samsung Galaxy ZFold 6",
         action:"Buy Now",
-        price: "240,000"
+        price: "1098000"
 
     },
 
@@ -43,7 +34,7 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-s24-ultra-5g-sm-s928-stylus.jpg',
         name: " Samsung Galaxy S24 Ultra",
         action:"Buy Now",
-         price: "240,000"
+         price: "970000"
 
     },
 
@@ -54,7 +45,7 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-tab-s10-ultra.jpg',
         name: " Samsung Galaxy Tab s10-Ultra",
         action:"Buy Now",
-         price: "240,000"
+         price: "1300000"
 
     },
 
@@ -63,7 +54,7 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-s25-sm-s931.jpg',
         name: " Samsung Galaxy S25 Small",
         action:"Buy Now",
-         price: "240,000"
+         price: "800000"
 
     },
 
@@ -72,7 +63,7 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-a35.jpg',
         name: " Samsung Galaxy A35",
         action:"Buy Now",
-         price: "240,000"
+         price: "340000"
 
     },
 
@@ -81,7 +72,7 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-z-fold-special-edition.jpg',
         name: " Samsung Galaxy z-fold special",
         action:"Buy Now",
-         price: "240,000"
+         price: "678000"
 
     },
 
@@ -90,7 +81,7 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-s22-ultra-5g.jpg',
         name: " Samsung Galaxy S22 Ultra 5G",
         action:"Buy Now",
-         price: "240,000"
+         price: "560000"
 
     },
 
@@ -99,7 +90,7 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-s10.jpg',
         name: " Samsung S10",
         action:"Buy Now",
-         price: "240,000"
+         price: "250000"
 
     },
 
@@ -108,10 +99,17 @@ export const PhoneDataFile = [
         image: '/img/samsung-galaxy-s10-plus-new.jpg',
         name: " Samsung S10+",
         action:"Buy Now",
-        price: "240,000"
+        price: "300000"
 
-    }
+    },
+     {
+        id: "2",
+        image: '/img/samsung-galaxy-note5.jpg',
+        name: " Samsung Galaxy Note 5",
+        action:"Buy Now",
+        price: "220000"
 
+    },
 
 
 ]
@@ -124,7 +122,7 @@ export const IphoneFile = [
         image:'/img/apple-iphone-15.jpg',
         name: "Iphone 15",
         action:"Buy Now",
-        price: "240,000"
+        price: "595000"
 
     },
 
@@ -133,52 +131,52 @@ export const IphoneFile = [
         image:'/img/apple-iphone-15-pro.jpg',
         name: "Iphone 15 Pro",
         action:"Buy Now",
-        price: "240,000"
+        price: "620000"
 
     },
 
      {
         id: "3",
-        image:'/img/apple-iphone-15-pro-max.jpg',
-        name: "Iphone 15 Pro max",
+        image:'/img/apple-iphone-14-pro.jpg',
+        name: "Iphone 14 Pro ",
         action:"Buy Now",
-        price: "240,000"
+        price: "695000"
 
     },
 
       {
         id: "4",
-        image:'/img/apple-iphone-16.jpg',
-        name: "Iphone 16",
+        image:'/img/apple-iphone-13-pro.jpg',
+        name: "Iphone 13 Pro",
         action:"Buy Now",
-        price: "240,000"
+        price: "535000"
 
     },
 
       {
         id: "5",
-        image:'/img/apple-iphone-16-plus.jpg',
-        name: "Iphone 16 plus",
+        image:'/img/apple-iphone-13.jpg',
+        name: "Iphone 13",
         action:"Buy Now",
-        price: "240,000"
+        price: "410000"
 
     },
 
       {
         id: "6",
-        image:'/img/apple-iphone-16-pro.jpg',
-        name: "Iphone 16 Pro ",
+        image:'/img/apple-iphone-12-pro-max-.jpg',
+        name: "Iphone 12 Pro Max ",
         action:"Buy Now",
-        price: "240,000"
+        price: "485000"
 
     },
 
     {
         id: "7",
-        image:'/img/apple-iphone-16-pro-max.jpg',
-        name: "Iphone 16 Pro Max ",
+        image:'/img/apple-iphone-12.jpg',
+        name: "Iphone 12 ",
         action:"Buy Now",
-        price: "240,000"
+        price: "300000"
 
     },
 
@@ -193,6 +191,97 @@ export const IphoneFile = [
 //Oppo
 
 export const OppoFile = [
+  {
+        id: "16",
+        image:'/img/oppo-a77.jpg',
+        name: "Oppo A77",
+        action:"Buy Now",
+        price: "105000"
+
+    },
+    
+    
+    {
+        id: "10",
+        image:'/img/oppo-a5-2020.jpg',
+        name: "Oppo A5",
+        action:"Buy Now",
+        price: "55000"
+
+    },
+
+     {
+        id: "11",
+        image:'/img/oppo-a78.jpg',
+        name: "Oppo A78",
+        action:"Buy Now",
+        price: "100000"
+
+    },
+
+    {
+        id: "12",
+        image:'/img/oppo-f11-.jpg',
+        name: "Oppo F11",
+        action:"Buy Now",
+        price: "70000"
+
+    },
+
+     {
+        id: "13",
+        image:'/img/oppo-a93s-5g.jpg',
+        name: "Oppo A93s",
+        action:"Buy Now",
+        price: "95000"
+
+    },
+
+    {
+        id: "14",
+        image:'/img/oppo-a56-5g.jpg',
+        name: "Oppo A56 5G",
+        action:"Buy Now",
+        price: "80000"
+
+    },
+
+    {
+        id: "15",
+        image:'/img/oppo-a53-5g.jpg',
+        name: "Oppo A53 5G",
+        action:"Buy Now",
+        price: "85000"
+
+    },
+
+
+    {
+        id: "7",
+        image:'/img/oppo-f15.jpg',
+        name: "Oppo F15",
+        action:"Buy Now",
+        price: "105000"
+
+    },
+
+      {
+        id: "8",
+        image:'/img/oppo-f9 full.jpg',
+        name: "Oppo F9",
+        action:"Buy Now",
+        price: "60000"
+
+    },
+
+     {
+        id: "9",
+        image:'/img/oppo-a7 full.jpg',
+        name: "Oppo A7",
+        action:"Buy Now",
+        price: "240,000"
+
+    },
 
     {
         id: "1",
@@ -208,7 +297,7 @@ export const OppoFile = [
         image:'/img/oppo-a57.jpg',
         name: "Oppo A57",
         action:"Buy Now",
-        price: "240,000"
+        price: "37000"
 
     },
 
@@ -217,7 +306,7 @@ export const OppoFile = [
         image:'/img/oppo-a59.jpg',
         name: "Oppo A59",
         action:"Buy Now",
-        price: "240,000"
+        price: "42000"
 
     },
 
@@ -226,7 +315,7 @@ export const OppoFile = [
         image:'/img/oppo-a83 full.jpg',
         name: "Oppo A83",
         action:"Buy Now",
-        price: "240,000"
+        price: "40000"
 
     },
 
@@ -235,7 +324,7 @@ export const OppoFile = [
         image:'/img/oppo-a73 full.jpg',
         name: "Oppo A73",
         action:"Buy Now",
-        price: "240,000"
+        price: "85000"
 
     },
 
@@ -248,120 +337,59 @@ export const OppoFile = [
 
     },
 
-       {
-        id: "7",
-        image:'/img/oppo-f7 full.jpg',
-        name: "Oppo F7",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
-      {
-        id: "8",
-        image:'/img/oppo-f9 full.jpg',
-        name: "Oppo F9",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
-     {
-        id: "9",
-        image:'/img/oppo-a7 full.jpg',
-        name: "Oppo A7",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
-    
-     {
-        id: "10",
-        image:'/img/oppo-a5-2020.jpg',
-        name: "Oppo A5",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
-     {
-        id: "11",
-        image:'/img/oppo-a31.jpg',
-        name: "Oppo A31",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
-    {
-        id: "12",
-        image:'/img/oppo-f11-.jpg',
-        name: "Oppo F11",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
-     {
-        id: "13",
-        image:'/img/oppo-a15s.jpg',
-        name: "Oppo A15s",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
-    {
-        id: "14",
-        image:'/img/oppo-a56-5g.jpg',
-        name: "Oppo A56 5G",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
-    {
-        id: "15",
-        image:'/img/oppo-a53-5g.jpg',
-        name: "Oppo A53 5G",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
-
-
 
 ]
 
 //Vivo File
 
 export const VivoFile = [
-    
-    
-      {
-        id: "2",
-        image:'/img/vivo_y23.jpg',
-        name: "Vivo Y23",
+
+
+    {
+        id: "17",
+        image:'/img/vivo-y19.jpg',
+        name: "Vivo Y19",
         action:"Buy Now",
-        price: "240,000"
+        price: "65000"
 
     },
-      {
-        id: "3",
-        image:'/img/vivo-y31.jpg',
-        name: "Vivo Y31",
+
+    {
+        id: "16",
+        image:'/img/vivo-y17.jpg',
+        name: "Vivo Y17",
         action:"Buy Now",
-        price: "240,000"
+        price: "60000"
 
     },
+
+
+     {
+        id: "15",
+        image:'/img/vivo-y11-2019.jpg',
+        name: "Vivo Y11",
+        action:"Buy Now",
+        price: "55000"
+
+    },
+
+
+    {
+        id: "8",
+        image:'/img/Vivo y85.webp',
+        name: "Vivo Y85",
+        action:"Buy Now",
+        price: "50000"
+
+    },
+    
+    
       {
         id: "4",
-        image:'/img/vivo-y51.jpg',
-        name: "Vivo Y51",
+        image:'/img/vivoZ7.jpg',
+        name: "Vivo Z7",
         action:"Buy Now",
-        price: "240,000"
+        price: "40000"
 
     },
       {
@@ -369,24 +397,24 @@ export const VivoFile = [
         image:'/img/vivo-v3.jpg',
         name: "Vivo V3",
         action:"Buy Now",
-        price: "240,000"
+        price: "30000"
 
     },
 
      {
         id: "1",
-        image:'/img/Y13 Vivo.avif',
+        image:'/img/vivo-y85.jpg',
         name: "Vivo Y13",
         action:"Buy Now",
-        price: "240,000"
+        price: "50000"
 
     },
       {
         id: "6",
-        image:'/img/Vivo Y55.jpg',
-        name: "Vivo Y55",
+        image:'/img/vivo-v15.jpg',
+        name: "Vivo v15",
         action:"Buy Now",
-        price: "240,000"
+        price: "70000"
 
     },
     {
@@ -397,15 +425,7 @@ export const VivoFile = [
         price: "240,000"
 
     },
-    {
-        id: "8",
-        image:'/img/Vivo y85.webp',
-        name: "Vivo Y85",
-        action:"Buy Now",
-        price: "240,000"
-
-    },
-
+    
     {
         id: "9",
         image:'/img/VivoV3max.jpg',
@@ -429,7 +449,7 @@ export const VivoFile = [
         image:'/img/vivoy66.avif',
         name: "Vivo Y66",
         action:"Buy Now",
-        price: "240,000"
+        price: "32000"
 
     },
 
@@ -447,7 +467,7 @@ export const VivoFile = [
         image:'/img/vivo-x7.jpg',
         name: "Vivo X7",
         action:"Buy Now",
-        price: "240,000"
+        price: "50000"
 
     },
 
@@ -456,32 +476,24 @@ export const VivoFile = [
         image:'/img/vivo-x7-plus.jpg',
         name: "Vivo X7 plus",
         action:"Buy Now",
-        price: "240,000"
+        price: "52000"
 
     },
 
     {
-        id: "15",
-        image:'/img/vivo-y11-2019.jpg',
-        name: "Vivo Y11",
+        id: "2",
+        image:'/img/vivo_y23.jpg',
+        name: "Vivo Y23",
         action:"Buy Now",
         price: "240,000"
 
     },
 
-    {
-        id: "16",
-        image:'/img/vivo-y17.jpg',
-        name: "Vivo Y17",
-        action:"Buy Now",
-        price: "240,000"
 
-    },
-
-    {
-        id: "17",
-        image:'/img/vivo-y19.jpg',
-        name: "Vivo Y19",
+       {
+        id: "3",
+        image:'/img/vivo-y31.jpg',
+        name: "Vivo Y31",
         action:"Buy Now",
         price: "240,000"
 
@@ -493,6 +505,8 @@ export const VivoFile = [
 //Gionee
 
 export const GioneeFile = [
+   
+   
     {
         id: "1",
         image:'/img/gionee-f103.jpg',
@@ -726,39 +740,49 @@ export const RedmiFile = [
 // HONOR 
 
 export const HonorFile = [
-     {
+     
+    {
         id: "1",
-        image:'/img/honor_4a.jpg',
-        name: "Honor 4A",
+        image:'/img/honor-400.jpg',
+        name: "Honor 400",
+        action:"Buy Now",
+        price: "240,000"
+
+    },
+    
+    {
+        id: "2",
+        image:'/img/honor-600.jpg',
+        name: "Honor 600",
         action:"Buy Now",
         price: "240,000"
 
     },
      {
-        id: "2",
-        image:'/img/huawei-enjoy-5s.jpg',
-        name: "Honor 5S",
-        action:"Buy Now",
-        price: "240,000"
-
-    }, {
         id: "3",
-        image:'/img/huawei-honor-5c.jpg',
-        name: "Honor 5C",
+        image:'/img/honor-600-lite.jpg',
+        name: "Honor 600 Lite",
         action:"Buy Now",
         price: "240,000"
 
     }, {
         id: "4",
-        image:'/img/huawei-honor-5a-new.jpg',
-        name: "Honor 5A",
+        image:'/img/honor-600-pro.jpg',
+        name: "Honor 600 pro",
+        action:"Buy Now",
+        price: "240,000"
+
+    }, {
+        id: "4",
+        image:'/img/honor-x7e-plus.jpg',
+        name: "Honor x7e plus",
         action:"Buy Now",
         price: "240,000"
 
     }, {
         id: "5",
-        image:'/img/huawei-enjoy-6s.jpg',
-        name: "Honor 6S",
+        image:'/img/honor-x70.jpg',
+        name: "Honor x70",
         action:"Buy Now",
         price: "240,000"
 

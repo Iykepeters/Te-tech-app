@@ -1,3 +1,4 @@
+import { label } from "framer-motion/client"
 import {
   PhoneDataFile,
   IphoneFile,
@@ -17,6 +18,13 @@ export const categoryMap = {
   gionee:  { label: "Gionee",  data: GioneeFile },
   redmi:   { label: "Redmi",   data: RedmiFile },
   honor:   { label: "Honor",   data: HonorFile },
+  infinix: { label: "Infinix"},
+  nokia:   { label: "Nokia"},
+  GooglePixel: { label: "GooglePixel"},
+  Tecno: {label: "Tecno"},
+  HTC: {label:"HTC"},
+  ZTE: {label:"ZTE"},
+  Asus: {label:"Asus"}
 }
 
 // Top-level categories — "Phones" today, "Accessories"/"Tablets" can be added

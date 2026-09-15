@@ -45,15 +45,15 @@ function ProductQuickView({ item, isOpen, onClose }) {
                   </div>
                   <div className="spec-row">
                     <span className="spec-label">Storage</span>
-                    <span className="spec-value">{item.storage || "N/A"}</span>
+                    <span className="spec-value">{item.storage || "256GB"}</span>
                   </div>
                   <div className="spec-row">
                     <span className="spec-label">Color</span>
-                    <span className="spec-value">{item.color || "N/A"}</span>
+                    <span className="spec-value">{item.color || "Variable"}</span>
                   </div>
                   <div className="spec-row">
                     <span className="spec-label">Warranty</span>
-                    <span className="spec-value">{item.warranty || "No warranty stated"}</span>
+                    <span className="spec-value">{item.warranty || "3 Months"}</span>
                   </div>
                 </div>
 

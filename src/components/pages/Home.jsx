@@ -12,6 +12,7 @@ import {
   GioneeFile,
   RedmiFile,
   HonorFile,
+  RealmeFile,
 } from "../ProductData"
 import SEOContent from "../SEOContent"
 
@@ -89,6 +90,7 @@ function Home() {
         <SliderRow items={GioneeFile} label="Gionee" />
         <SliderRow items={RedmiFile} label="Redmi" />
         <SliderRow items={HonorFile} label="Honor" />
+        <SliderRow items={RealmeFile} label="RealMe" />
         <BrandsGrid />
 
 

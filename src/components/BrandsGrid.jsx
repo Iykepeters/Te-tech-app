@@ -17,7 +17,7 @@ const brandLogos = {
   GooglePixel: "/img/GooglePixel.png"  ,
   Tecno: "/img/TecnoLogo.png",
   HTC: "/img/HtcLogo.png",
-  ZTE: "/img/ZTELogo.png",
+  Realme: "/img/realme logo.png",
   Asus: "img/AsusLogo.png"
 }
 

@@ -7,6 +7,7 @@ import {
   GioneeFile,
   RedmiFile,
   HonorFile,
+  RealmeFile,
 } from "./ProductData"
 
 // Add new brands/categories here later — everything else (nav, routes, grid) reads from this
@@ -23,7 +24,7 @@ export const categoryMap = {
   GooglePixel: { label: "GooglePixel"},
   Tecno: {label: "Tecno"},
   HTC: {label:"HTC"},
-  ZTE: {label:"ZTE"},
+  Realme: {label:"Realme", data: RealmeFile},
   Asus: {label:"Asus"}
 }
 
